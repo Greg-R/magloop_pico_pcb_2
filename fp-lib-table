@@ -1,0 +1,9 @@
+(fp_lib_table
+  (lib (name "digikey-footprints")(type "KiCad")(uri "/home/raven/gitrepos/pcb/digikey-kicad-library/digikey-footprints.pretty")(options "")(descr ""))
+  (lib (name "magloop_pico")(type "KiCad")(uri "${KIPRJMOD}/magloop_pico.pretty")(options "")(descr ""))
+  (lib (name "footprints")(type "KiCad")(uri "/home/raven/kicad/libraries/ul_5-1634503-1/KiCAD/2021-10-25_11-39-34/footprints.pretty")(options "")(descr ""))
+  (lib (name "magloop_library")(type "KiCad")(uri "${KIPRJMOD}/library/ul_2-406541-3/KiCAD/2022-03-09_13-14-21/footprints.pretty/magloop_library.pretty")(options "")(descr ""))
+  (lib (name "BNC_Vertical")(type "KiCad")(uri "/home/raven/gitrepos/pcb/downloaded_parts/ul_5-1634503-1/KiCAD/2022-03-09_17-27-15/footprints.pretty")(options "")(descr ""))
+  (lib (name "280370-1")(type "KiCad")(uri "/home/raven/gitrepos/pcb/downloaded_parts/280370-1")(options "")(descr ""))
+  (lib (name "5-1634513-1")(type "KiCad")(uri "/home/raven/gitrepos/pcb/downloaded_parts/5-1634513-1")(options "")(descr ""))
+)

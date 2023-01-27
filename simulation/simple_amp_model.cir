@@ -1,0 +1,18 @@
+.title Simple BJT Amplifier
+.include "/home/raven/gitrepos/ngspice_projects/models/1N5711.MOD"
+.include "/home/raven/gitrepos/ngspice_projects/models/2N3904.LIB"
+
+.control
+set ngbehavior=ps
+.endc
+
+R1 supply base 3900.0
+R2 base GND 2.7K
+R3 supply collector 300.0
+R4 emitter gnd 200.0
+
+Q1 collector base emitter Q2n3904
+
+V1 supply GND dc 12
+
+.end
