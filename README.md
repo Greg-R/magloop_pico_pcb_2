@@ -1,4 +1,4 @@
-#  Printed Circuit Board for Magnetic Loop Antenna Controller
+#  Printed Circuit Board for Magnetic Loop Antenna Controller Version 2
 
 Design and fabrication files the Magnetic Loop Antenna Controller printed circuit board.
 
