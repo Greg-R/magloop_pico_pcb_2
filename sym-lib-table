@@ -1,5 +1,6 @@
 (sym_lib_table
-  (lib (name "ad9850")(type "Legacy")(uri "${KIPRJMOD}/library/ad9850.lib")(options "")(descr ""))
+  (version 7)
+  (lib (name "ad9850")(type "KiCad")(uri "${KIPRJMOD}/library/ad9850.kicad_sym")(options "")(descr ""))
   (lib (name "A4988_module")(type "KiCad")(uri "${KIPRJMOD}/library/A4988_module.kicad_sym")(options "")(descr ""))
   (lib (name "dk_Addressable-Specialty")(type "Legacy")(uri "/home/raven/gitrepos/pcb/digikey-kicad-library/digikey-symbols/dk_Addressable-Specialty.lib")(options "")(descr ""))
   (lib (name "dk_Alarms-Buzzers-and-Sirens")(type "Legacy")(uri "/home/raven/gitrepos/pcb/digikey-kicad-library/digikey-symbols/dk_Alarms-Buzzers-and-Sirens.lib")(options "")(descr ""))
@@ -156,4 +157,5 @@
   (lib (name "280370-1")(type "KiCad")(uri "/home/raven/gitrepos/pcb/downloaded_parts/280370-1/280370-1.kicad_sym")(options "")(descr ""))
   (lib (name "BNC_Horizontal")(type "Legacy")(uri "/home/raven/gitrepos/pcb/downloaded_parts/5-1634513-1/5-1634513-1.lib")(options "")(descr ""))
   (lib (name "Ethernet_Conn")(type "KiCad")(uri "/home/raven/gitrepos/pcb/downloaded_parts/ul_2-406541-3/KiCAD/2022-03-09_13-14-21/2022-03-09_13-14-21.kicad_sym")(options "")(descr ""))
+  (lib (name "TMC2209")(type "KiCad")(uri "/home/raven/gitrepos/pcb/downloaded_parts/TMC2209.kicad_sym")(options "")(descr ""))
 )
